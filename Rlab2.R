@@ -1,3 +1,14 @@
+#Program for Linear Regression:
+#  • Read a dataset from a CSV file that contains variables for independent and
+#    dependent variables.
+#  • Perform linear regression analysis to model the relationship between the
+#    variables.
+#  • Calculate the coefficients and intercept of the regression model.
+#  • Evaluate the model's goodness-of-fit using metrics like R-squared and adjusted
+#    R-squared.
+#  • Plot the regression line and residuals to visualize the relationship between the
+#    variables.
+
 library(dplyr)
 library(ggplot2)
 library(tidyr)
