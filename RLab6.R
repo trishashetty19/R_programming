@@ -1,3 +1,13 @@
+#Program for Data Manipulation:
+#  • Read multiple datasets from different files or sources.
+#  • Merge or join the datasets based on common variables or keys.
+#  • Perform aggregation operations, such as calculating sums, means, or counts, by
+#    groups or categories.
+#  • Filter the data based on specific conditions or criteria.
+#  • Create new variables or transform existing variables using functions or
+#    mathematical operations.
+
+
 library(dplyr)
 
 #Reading multiple datasets 
