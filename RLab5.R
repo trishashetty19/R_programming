@@ -1,3 +1,13 @@
+#Program for Data Visualization:
+#  Use packages like ggplot2 or plot to create various types of charts, such as bar charts,
+#  line plots, scatter plots, or heatmaps.
+#   • Read a dataset from a CSV file or other data sources.
+#   • Customise the charts by adding labels, titles, legends, and adjusting the axis
+#     scales
+#   • Create interactive visualizations with tooltips, zooming, or filtering options.
+#   • Export the visualizations to different file formats or display them within an R
+#     notebook or Shiny application.
+
 library(ggplot2)
 library(dplyr)
 library(plotly)
