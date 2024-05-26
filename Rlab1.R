@@ -1,3 +1,15 @@
+#Program for Data Analysis:
+#  • Read a dataset from a CSV file and perform exploratory data analysis, including
+#    summary statistics, data visualization, and identifying missing values.
+#  • Clean the data by removing duplicates, handling missing values, and
+#    transforming variables if necessary.
+#  • Perform data manipulation operations such as filtering, sorting, and merging
+#    datasets based on certain criteria.
+#  • Conduct statistical analysis, such as hypothesis testing or correlation analysis,
+#    to derive insights from the data.
+#  • Generate reports or visualizations to present the analysis results.#
+
+
 library(dplyr)
 library(ggplot2)
 
